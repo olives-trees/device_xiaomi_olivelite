@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The DotOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_olivelite.mk
+    $(LOCAL_DIR)/dot_olivelite.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_olivelite-user \
-    lineage_olivelite-userdebug \
-    lineage_olivelite-eng
+    dot_olivelite-user \
+    dot_olivelite-userdebug \
+    dot_olivelite-eng
